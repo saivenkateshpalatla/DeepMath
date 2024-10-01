@@ -1,5 +1,3 @@
-Here's the description formatted as markdown:
-
 # DeepMath: Neural Network for Mathematical Problem Solving
 
 DeepMath is a deep learning project that tackles mathematical problem-solving using neural networks. This repository contains a Jupyter notebook demonstrating the implementation of a sequence-to-sequence model for solving addition problems.
